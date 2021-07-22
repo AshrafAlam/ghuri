@@ -1,7 +1,7 @@
 {
   "title": "ঘুড়ি",
   "author": "Ashraf Alam",
-  "headerTitle": "ঘুড়ি ::",
+  "headerTitle": "ঘুড়ি",
   "description": "শিল্প সাহিত্যের বাংলা প্লাটফর্ম",
   "language": "en-us",
   "siteUrl": "https://tmpl-next-tailwind.vercel.app/",
@@ -10,10 +10,6 @@
   "image": "/static/images/avatar.png",
   "socialBanner": "/static/images/twitter-card.png",
   "email": "email@gmail.com",
-  "github": "https://github.com/AshrafAlam",
-  "twitter": "https://twitter.com/AshrafulAlam",
   "facebook": "https://www.facebook.com/ashraful.alam/",
-  "youtube": "https://youtube.com",
-  "linkedin": "https://www.linkedin.com/in/ashrafalam/",
   "locale": "en-US"
 }
