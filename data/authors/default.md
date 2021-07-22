@@ -1,18 +1,16 @@
 ---
-name: Ashraf Alam
+name: আশারাফুল আলম জয়
 avatar: /static/images/ashraf-profile.jpg
-occupation: Software Architect and Author
+occupation: লেখক ও সফটওয়্যার প্রকৌশিলী
 company: EISK
-email: address@yoursite.com
+email: joycsc@gmail.com
 twitter: https://twitter.com/ashrafulalam
 linkedin: https://www.linkedin.com/in/ashrafalam/
 github: https://github.com/AshrafAlam
 ---
 
-Ashraf Alam is specialised in designing and building high-performance web applications in cloud computing environment. He is currently serving as System Architect at Schoders, an asset management company operating worldwide. Ashraf is driving Digital Platform strategy and roadmap for Schroders to create innovative digital services for its customers.
+আশরাফুল আলম জয় সফটওয়্যার শিল্পে দেশে ও আন্তর্জাতিক পর্যায়ে এক যুগেরও বেশি সময় ধরে কাজ করছেন। হাইপারফরমেন্স ওয়েব অ্যাপ্লিকেশন, ক্লাউড কম্পিউটিং ও বিগ ডেটাসহ অত্যাধুনিক প্রযুক্তির বিভিন্ন শাখায় তাঁর কর্মক্ষেত্র বিস্তৃত।ডেভেলপার কম্যুনিটিতে অবদানের জন্য আশরাফুল আলম মাইক্রোসফট থেকে পরপর ছয় বছর ‘মোস্ট ভ্যালুয়েবল প্রফেশনাল’ হিসেবে স্বীকৃতি পেয়েছেন। 
 
-Prior Schroders, Ashraf was a part of the cloud platform team at Autodesk for building high performance secured services for its several millions of customers and users.
+তাঁর কাজ প্রকাশিত ও প্রশংসিত হয়েছে আইইই কম্পিউটার সোসাইটি, মাইক্রোসফট চ্যানেল নাইনসহ আন্তর্জাতিক বিভিন্ন মাধ্যমে।অভিজ্ঞ এ সফটওয়্যার বিশেষজ্ঞ বর্তমানে একটি বহুজাতিক ফিনানশিয়াল প্রতিষ্ঠানে সফটওয়্যার স্থপতি হিসেবে সিঙ্গাপুরে কর্মরত রয়েছেন।
 
-Through his professional experience, Ashraf's proven ability in technology leadership role and in-depth knowledge in technology led him gaining reputation with many success stories. Few of these include writing Kernel for a cloud-based SaaS platform, leading engineering effort to build enterprise applications for large organisations, such as Target, Motorola etc.
-
-Ashraf has been involved as speaker, organiser, writer and judge in different technical online and offline events and inspired technical communities to create a better world. His activities include engagements with Microsoft Imagine Cup, IEEE Computer Society & Microsoft Conferences and ACM Programming Contests.
+ভবিষ্যতে দেশের সফটওয়্যার শিল্পের উন্নয়নে তরুণদের নিয়ে তিনি কাজ করতে ইচ্ছুক।লেখকের সঙ্গে যোগাযোগ- https://www.fb.com/ashraful.alam
