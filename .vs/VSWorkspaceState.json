@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\data",
-    "\\data\\authors",
     "\\data\\blog",
-    "\\data\\blog\\nested-route",
-    "\\layouts",
+    "\\data\\blog\\experience",
+    "\\data\\blog\\interesting",
+    "\\data\\blog\\interesting\\person",
+    "\\data\\blog\\interesting\\tech",
+    "\\data\\blog\\thoughts",
+    "\\data\\blog\\thoughts\\writing",
     "\\pages",
-    "\\pages\\blog",
-    "\\public\\static",
-    "\\public\\static\\images"
+    "\\pages\\tags"
   ],
-  "SelectedNode": "\\data\\authors\\default.md",
   "PreviewInSolutionExplorer": false
 }
