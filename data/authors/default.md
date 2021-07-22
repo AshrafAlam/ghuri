@@ -1,5 +1,5 @@
 ---
-name: আশারাফুল আলম জয়
+name: আশরাফুল আলম জয়
 avatar: /static/images/ashraf-profile.jpg
 occupation: লেখক ও সফটওয়্যার প্রকৌশিলী
 email: joycsc@gmail.com
