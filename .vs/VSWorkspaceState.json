@@ -4,13 +4,13 @@
     "\\data",
     "\\data\\blog",
     "\\data\\blog\\experience",
+    "\\data\\blog\\experience\\china",
+    "\\data\\blog\\experience\\indonasia",
     "\\data\\blog\\interesting",
-    "\\data\\blog\\interesting\\person",
-    "\\data\\blog\\interesting\\tech",
     "\\data\\blog\\thoughts",
-    "\\data\\blog\\thoughts\\writing",
-    "\\pages",
-    "\\pages\\tags"
+    "\\data\\blog\\thoughts\\life-style",
+    "\\data\\blog\\thoughts\\views"
   ],
+  "SelectedNode": "\\data\\blog\\thoughts\\views\\motivator-vs-mentor.mdx",
   "PreviewInSolutionExplorer": false
 }
