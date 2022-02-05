@@ -52,7 +52,7 @@ const securityHeaders = [
   },
 ]
 
-const CORSHeaders = [
+const corsHeaders = [
   { key: "Access-Control-Allow-Credentials", value: "true" },
   { key: "Access-Control-Allow-Origin", value: "*" },
   { key: "Access-Control-Allow-Methods", value: "GET,OPTIONS,PATCH,DELETE,POST,PUT" },
@@ -72,8 +72,8 @@ module.exports = withBundleAnalyzer({
         headers: securityHeaders
       },
       {
-        source: '/embed.js',
-        headers: CORSHeaders
+        source: '/*',
+        headers: corsHeaders
       },
     ]
   },
