@@ -72,7 +72,7 @@ module.exports = withBundleAnalyzer({
         headers: securityHeaders
       },
       {
-        source: '/*',
+        source: '*/*',
         headers: corsHeaders
       },
     ]
