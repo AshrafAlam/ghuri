@@ -32,20 +32,23 @@ export async function getStaticProps({ params }) {
   const authorDetails = await Promise.all(authorPromise)
 
   // rss
-  const rss = generateRss(allPosts)
-  fs.writeFileSync('./public/feed.xml', rss)
+  if (allPosts.length > 0) {
+    const rss = generateRss(allPosts)
+    fs.writeFileSync('./public/feed.xml', rss)
+  }
 
   return { props: { post, authorDetails, prev, next } }
 }
 
 export default function Blog({ post, authorDetails, prev, next }) {
-  const { mdxSource, frontMatter } = post
+  const { mdxSource, toc, frontMatter } = post
 
   return (
     <>
       {frontMatter.draft !== true ? (
         <MDXLayoutRenderer
           layout={frontMatter.layout || DEFAULT_LAYOUT}
+          toc={toc}
           mdxSource={mdxSource}
           frontMatter={frontMatter}
           authorDetails={authorDetails}
