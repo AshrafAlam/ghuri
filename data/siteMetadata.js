@@ -11,11 +11,8 @@ const siteMetadata = {
     image: '/static/images/avatar.png',
     socialBanner: '/static/images/twitter-card.png',
     email: 'joycsc@gmail.com',
-    github: 'https://github.com',
-    twitter: 'https://twitter.com/Twitter',
-    facebook: 'https://www.facebook.com/ashraful.alam/',
-    youtube: 'https://youtube.com',
-    linkedin: 'https://www.linkedin.com',
+    github: 'https://github.com/AshrafAlam/ghuri',
+    facebook: 'https://www.facebook.com/ashraful.alam',
     locale: 'bn',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
